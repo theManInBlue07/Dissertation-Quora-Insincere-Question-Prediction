@@ -13,7 +13,6 @@ A question is said to be Insincere if it based on any of the listed metrics :
 seeking genuine answers.
 My aim is to predict whether a question asked on Quora is insincere or not so that users can feel safe on their platform.
 
-
 Project Objectives/Deliverables:
 The objectives of the project are mentioned below:
 ● To collect text data consisting of qid- unique question identifier,question_text - Quora question text and target - a question labeled “insincere” having a value of 1, otherwise 0.
