@@ -1,4 +1,4 @@
-# Dissertation-Quora-Insincere-Question-Presiction
+# Dissertation-Quora-Insincere-Question-Prediction
 
 Project Aim/Objective
 To develop Deep Learning Models to identify or weed out insincere questions on platforms like Quora .
